@@ -1,0 +1,63 @@
+.fixed-top{
+    background-color: #fff;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Adjust the shadow as needed */
+
+}
+body {
+    padding-top: 56px; 
+
+}
+.navbar-brand img{
+    width: 70px;
+}
+.navbar-light .navbar-nav .active{
+    color: rgb(2, 2, 111) !important;
+}
+.navbar-light li a{
+    text-transform: uppercase;
+    font-size: 13px;
+}
+#About{
+    margin: auto;
+    text-align: center;
+    padding: 70px 0;
+  
+    background-image: url('../image/bgfons.com\ -\ ornaments_texture1141.jpg'); /* Replace 'your-image.jpg' with the path to your image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#About h2{
+   text-transform: uppercase;
+   color: #fff;
+
+}
+.sec-content p{
+    text-align: justify;
+    font-size: 13px;
+}
+.sec-content  h3{
+    color:#005dc6;
+    text-transform: uppercase;
+    font-size: 17px;
+}
+.cont-picture img{
+    width: 100%;
+}
+.mss-list li{
+    font-size: 13px;
+}
+#footer{
+    padding: 20px;
+    background-color: #005dc6;
+    margin: auto;
+    text-align: center;
+}
+#footer p{
+    color: #fff;
+    padding: 0;
+    margin: 0;
+}
